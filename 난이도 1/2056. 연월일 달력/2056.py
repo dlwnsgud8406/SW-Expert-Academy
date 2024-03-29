@@ -9,8 +9,8 @@ def is_valid_date(month, day):
 
 T = int(input())
 for test_case in range(1, T + 1):
-    data = input()
-    year, month, day = int(data[:4]), int(data[4:6]), int(data[6:8])
+    board = input()
+    year, month, day = int(board[:4]), int(board[4:6]), int(board[6:8])
 
     year_str = f"{year:04d}"
     month_str = f"{month:02d}"
