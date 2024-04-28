@@ -1,4 +1,6 @@
-3
-5 1
-5 2
-100 3
+5
+ABAB
+CCDD
+EFFE
+EEEE
+NONE
